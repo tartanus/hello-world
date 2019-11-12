@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+This is a test to verify the features of GitHub
